@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1-rc (832c77b156, 2025-02-28)"
+   sodipodi:docname="yin_yang.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.4307099"
+     inkscape:cx="167.04994"
+     inkscape:cy="205.14292"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="25, 25"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25, 25"
+       orientation="1,0"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50, 50"
+       orientation="0,-1"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="75, 75"
+       orientation="0,-1"
+       id="guide7"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="50, 50"
+       orientation="1,0"
+       id="guide8"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="75, 75"
+       orientation="1,0"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,99.999999"
+       orientation="1,0"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="99.999999,0"
+       orientation="1,0"
+       id="guide11"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="99.999999,99.999999"
+       orientation="0,-1"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,-1"
+       id="guide13"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.99;fill:#0000ff;stroke-width:0.264583;fill-opacity:1"
+       id="path15"
+       sodipodi:type="arc"
+       sodipodi:cx="50"
+       sodipodi:cy="50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       sodipodi:start="0"
+       sodipodi:end="3.1037619"
+       sodipodi:arc-type="slice"
+       d="M 100,50 A 50,50 0 0 1 50.945712,99.991055 50,50 0 0 1 0.03577488,51.891087 L 50,50 Z" />
+    <path
+       style="opacity:0.99;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       id="path15-6"
+       sodipodi:type="arc"
+       sodipodi:cx="50"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       sodipodi:start="0"
+       sodipodi:end="3.1037619"
+       sodipodi:arc-type="slice"
+       d="M 100,-50 A 50,50 0 0 1 50.945712,-0.00894452 50,50 0 0 1 0.03577488,-48.108913 L 50,-50 Z"
+       transform="scale(1,-1)" />
+    <circle
+       style="opacity:0.99;fill:#ff0000;stroke-width:0.264583"
+       id="path13"
+       cx="25"
+       cy="50"
+       r="25" />
+    <circle
+       style="opacity:0.99;fill:#0000ff;stroke-width:0.264583"
+       id="path14"
+       cx="75"
+       cy="50"
+       r="25" />
+    <circle
+       style="opacity:0.99;fill:#00ff00;fill-opacity:1;stroke-width:0.264583"
+       id="path20"
+       cx="25"
+       cy="50"
+       r="9" />
+    <circle
+       style="display:inline;opacity:0.99;fill:#00ff00;fill-opacity:1;stroke-width:0.264583"
+       id="path21"
+       cx="75"
+       cy="50"
+       r="9" />
+  </g>
+</svg>

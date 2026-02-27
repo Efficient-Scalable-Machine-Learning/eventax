@@ -1,0 +1,62 @@
+site_name: eventax
+theme:
+  name: material
+  logo: img/logo5.svg
+  custom_dir: overrides
+  palette:
+    primary: custom
+    accent: custom
+  features:
+    - navigation.sections
+    - navigation.expand
+    - toc.follow
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Examples:
+      - Neuron Models: examples/neuron_models.ipynb
+      - Regression: examples/regression.ipynb
+      - Classification: examples/classification.ipynb
+  - Event-Based Neural Networks:
+      - EvNN: event_based_neural_networks/evnn.md
+      - FFEvNN: event_based_neural_networks/ffevnn.md
+  - Neuron Models:
+      - NeuronModel: neuron_models/neuron_model.md
+      - LIF: neuron_models/lif.md
+      - QIF: neuron_models/qif.md
+      - EGRU: neuron_models/egru.md
+      - Izhikevich: neuron_models/izhikevich.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - admonition
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      remove_tag_config:
+        remove_input_tags:
+            - hide_code
+  - mkdocstrings:
+      handlers:
+        python:
+          paths: [src]
+          options:
+            show_source: true
+            show_root_heading: true
+            separate_signature: true
+            show_signature_annotations: true
+            members_order: source

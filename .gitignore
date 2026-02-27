@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs & reports
+*.log
+reports/
+
+# Docs
+/docs-site/site/
+
+# Notebooks
+**/.ipynb_checkpoints/
+
+# Project-specific
+examples_old/
+wandb/
