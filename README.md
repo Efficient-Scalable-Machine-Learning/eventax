@@ -14,3 +14,7 @@ Eventax provides a [JAX](https://github.com/google/jax) implementation of the [E
 ```bash
 pip install eventax
 ```
+
+## Documentation:
+
+Look at the documentation [here](https://efficient-scalable-machine-learning.github.io/eventax/).
