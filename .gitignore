@@ -6,6 +6,13 @@ __pycache__/
 *.egg-info/
 build/
 dist/
+.Python
+*.pyw  # if you ever add any
+
+# Virtual environments
+.venv/
+venv/
+env/
 
 # Editor/IDE
 .vscode/
@@ -28,3 +35,8 @@ reports/
 # Project-specific
 examples_old/
 wandb/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
