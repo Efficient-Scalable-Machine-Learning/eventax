@@ -2,7 +2,7 @@
   <img src="./docs-site/docs/img/logo5.svg" alt="Eventpropjax" width="70%">
 </p>
 
-Eventax provides a [JAX](https://github.com/google/jax) implementation of the [EventProp algorithm](https://arxiv.org/abs/2009.08378) using [Diffrax](https://github.com/patrick-kidger/diffrax) and [Equinox](https://github.com/patrick-kidger/equinox) offering full autograd support, easy extension with custom neuron dynamics, and built-in delay training.
+Eventax provides a [JAX](https://github.com/google/jax) implementation of the [EventProp algorithm](https://arxiv.org/abs/2009.08378) using [Diffrax](https://github.com/patrick-kidger/diffrax) and [Equinox](https://github.com/patrick-kidger/equinox) offering full autograd support and easy extension with custom neuron dynamics.
 
 ## Features
 - Fully differentiable implementation via JAX and Diffrax
